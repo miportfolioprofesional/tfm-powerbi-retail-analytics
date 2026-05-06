@@ -23,21 +23,6 @@ Este repositorio contiene el desarrollo completo de un **Trabajo Fin de Máster*
 
 ---
 
-## 🖼️ Dashboards (vista previa)
-
-### Dashboard Ejecutivo
-![Dashboard Ejecutivo](https://imgur.com/a/uTgeskQ)
-
-### Análisis Geográfico
-![Análisis Geográfico](https://imgur.com/a/lxLG4TT)
-
-### Análisis de Producto y Tendencias
-![Análisis de Producto](https://imgur.com/a/XSd2qbc)
-
-### Modelo de datos (relaciones en estrella)
-![Modelo de datos](https://imgur.com/a/OmAbsLf)
-
----
 
 ## 📁 Estructura del repositorio
 
