@@ -26,16 +26,16 @@ Este repositorio contiene el desarrollo completo de un **Trabajo Fin de Máster*
 ## 🖼️ Dashboards (vista previa)
 
 ### Dashboard Ejecutivo
-![Dashboard Ejecutivo](./imagenes/dashboard-ejecutivo.png)
+![Dashboard Ejecutivo](https://imgur.com/a/uTgeskQ)
 
 ### Análisis Geográfico
-![Análisis Geográfico](./imagenes/dashboard-geografico.png)
+![Análisis Geográfico](https://imgur.com/a/lxLG4TT)
 
 ### Análisis de Producto y Tendencias
-![Análisis de Producto](./imagenes/dashboard-producto.png)
+![Análisis de Producto](https://imgur.com/a/XSd2qbc)
 
 ### Modelo de datos (relaciones en estrella)
-![Modelo de datos](./imagenes/modelo-estrella.png)
+![Modelo de datos](https://imgur.com/a/OmAbsLf)
 
 ---
 
@@ -85,9 +85,9 @@ Este repositorio contiene el desarrollo completo de un **Trabajo Fin de Máster*
 - ✅ Capacitación en DAX y modelado dimensional
 - ✅ Migración de reportes Excel a Power BI
 
-📩 **Contacto:** [tu email]  
-🔗 **LinkedIn:** [tu perfil]  
-🌐 **Superprof:** [https://www.superprof.com.ar/...](https://www.superprof.com.ar/ir/36793831-408101)
+📩 **Contacto:** matiasjavierendrek@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/matias-javier-endrek-7a9680255/ 
+
 
 ---
 
