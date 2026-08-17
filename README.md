@@ -1,81 +1,88 @@
-# 📊 TFM - Análisis Financiero y Comercial con Power BI
+# 📊 Master's Thesis - Financial and Commercial Analysis with Power BI
 
-## 📌 Descripción del proyecto
+## 📌 Project Description
 
-Este repositorio contiene el desarrollo completo de un **Trabajo Fin de Máster** enfocado en la evaluación del desempeño empresarial mediante herramientas de **Business Intelligence**.
+This repository contains the full development of a **Master's Thesis** focused on evaluating business performance using **Business Intelligence** tools.
 
-**Cliente:** Estudiante de Máster en Big Data y Ciencia de Datos  
-**Objetivo:** Desarrollar un modelo analítico financiero usando Microsoft Power BI sobre el dataset **Contoso Retail**
+**Client:** Master's student in Big Data and Data Science  
 
----
-
-## 🎯 Alcance del trabajo
-
-- ✅ Modelado de datos en esquema estrella (star schema)
-- ✅ Transformación y limpieza de datos con Power Query
-- ✅ Implementación de **15+ medidas DAX** (ventas, margen, ticket promedio, crecimiento interanual)
-- ✅ **3 dashboards interactivos:**
-  - Dashboard Ejecutivo (KPIs, rentabilidad por categoría, evolución temporal)
-  - Análisis Geográfico (ventas por región, mapa, evolución del ticket)
-  - Análisis de Producto y Tendencias (matriz por año, top productos, variación mensual)
-- ✅ Documentación completa del TFM (40+ páginas)
-- ✅ Comparativa con Excel y apoyo con IA (DAX)
+**Objective:** Develop a financial analytical model using Microsoft Power BI on the **Contoso Retail** dataset
 
 ---
 
+## 🎯 Scope of work
 
-## 📁 Estructura del repositorio
-
+- ✅ Data modeling in star schema
+- ✅ Data transformation and cleaning with Power Query
+- ✅ Implementation of **15+ DAX measures** (sales, margin, average ticket, year-over-year growth)
+- ✅ **3 interactive dashboards:**
+  
+  - Executive Dashboard (KPIs, profitability by category, time evolution)
+    
+  - Geographic Analysis (sales by region, map, ticket evolution)
+    
+  - Product and Trends Analysis (matrix by year, top products, monthly variation)
+    
+- ✅ Complete TFM documentation (40+ pages)
+- ✅ Comparison with Excel and AI support (DAX)
 
 ---
 
-## 🛠️ Tecnologías utilizadas
 
-- **Power BI Desktop** (modelado, DAX, visualizaciones)
-- **Power Query** (transformación y limpieza de datos)
-- **DAX (Data Analysis Expressions)** (medidas y KPIs)
+## 📁 Repository Structure
+
+---
+
+## 🛠️ Technologies Used
+
+- **Power BI Desktop** (modeling, DAX, visualizations)
+- **Power Query** (data transformation and cleaning)
+- **DAX (Data Analysis Expressions)** (measures and KPIs)
 - **Contoso Retail Dataset** (Microsoft Learn)
-- **Excel** (comparativa con herramientas tradicionales)
+- **Excel** (comparison with traditional tools)
 
 ---
 
-## 📈 KPIs implementados
+## 📈 Implemented KPIs
 
-- Total Ventas ($8.341 MM)
-- Margen Bruto ($4.789 MM)
-- Margen Bruto % (57,41%)
-- Ticket Promedio ($3.654)
-- Crecimiento interanual de ventas
-- Rentabilidad por categoría y producto
-- Contribución por canal de venta
-- Variación mensual de ingresos
-
----
-
-## 💡 ¿Qué aprendió el cliente?
-
-- Cómo estructurar un modelo analítico profesional en Power BI
-- La importancia del esquema en estrella para el rendimiento
-- Cálculo de KPIs financieros con DAX
-- Diseño de dashboards interactivos para toma de decisiones
-- Diferencias entre Excel y una solución de BI
+- Total Sales ($8.341 MM)
+- Gross Margin ($4.789 MM)
+- Gross Margin % (57.41%)
+- Average Ticket ($3.654)
+- Year-over-year sales growth
+- Profitability by category and product
+- Contribution by sales channel
+- Monthly revenue variation
 
 ---
 
-## 👨‍💻 Servicios que ofrezco
+## 💡 What did the client learn?
 
-- ✅ Desarrollo de dashboards a medida en Power BI
-- ✅ Asesoría para Trabajos Finales (TFM, tesis)
-- ✅ Transformación y limpieza de datos (Power Query)
-- ✅ Capacitación en DAX y modelado dimensional
-- ✅ Migración de reportes Excel a Power BI
+- How to structure a professional analytical model in Power BI
+- The importance of the star schema for performance
+- Calculating financial KPIs with DAX
+- Designing interactive dashboards for decision-making
+- Differences between Excel and a BI solution
 
-📩 **Contacto:** matiasjavierendrek@gmail.com  
+---
+
+## 👨‍💻 Services I Offer
+
+
+- ✅ Custom dashboard development in Power BI
+- ✅ Guidance for Final Projects (TFM, thesis)
+- ✅ Data transformation and cleaning (Power Query)
+- ✅ Training in DAX and dimensional modeling
+- ✅ Migration of Excel reports to Power BI
+  
+
+📩 **Contact:** matiasjavierendrek@gmail.com  
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/matias-javier-endrek-7a9680255/ 
 
 
 ---
 
-## 📝 Licencia
+## 📝 License
 
-Este proyecto es de uso educativo y demostrativo. El dataset Contoso Retail es propiedad de Microsoft.
+This project is for educational and demonstration purposes. The Contoso Retail dataset is owned by Microsoft.
